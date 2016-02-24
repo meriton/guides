@@ -131,6 +131,8 @@
 - [Read more from Dileep Bapat](http://tutorials.pluralsight.com/user/dileepbapat) <img src="https://avatars.githubusercontent.com/u/633838?v=3" width="30" height="30" alt="Dileep Bapat" />
 - Related to: DevOps (Docker, Nagios, Jenkins, Chef, Puppet, etc)
 
+
+
 ### Defensive programming in Python by Luke Lee
 - [Read the guide](http://tutorials.pluralsight.com/review/defensive-programming-in-python)
 - [Read more from Luke Lee](http://tutorials.pluralsight.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
@@ -175,4 +177,3 @@
 - [Read the guide](http://tutorials.pluralsight.com/review/moving-a-cloud-app-to-a-different-azure-resource-group)
 - [Read more from Aligned](http://tutorials.pluralsight.com/user/logankd) <img src="https://avatars.githubusercontent.com/u/1636977?v=3" width="30" height="30" alt="Aligned" />
 - Related to: DevOps (Docker, Nagios, Jenkins, Chef, Puppet, etc)
-
