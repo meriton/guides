@@ -1,4 +1,4 @@
-** Callbacks ** - Use them wisely! 
+**Callbacks** - Use them wisely! 
 
 - Callbacks are really useful. They can help you achieve really nice things within your Ruby on Rails application. However, using a lot of callbacks, or especially chained callbacks can be really problematic - i.e. what would happen if one fails? Do all of them fail? 
 
